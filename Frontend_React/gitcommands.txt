@@ -1,0 +1,7 @@
+git status
+git add .
+git commit -m "mysxolio"
+git push
+
+git fetch
+git pull
